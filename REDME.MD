@@ -5,4 +5,3 @@
 - @each задача с теорией
 - @function теория с задачей
 - @placeholder
-- @placeholder
